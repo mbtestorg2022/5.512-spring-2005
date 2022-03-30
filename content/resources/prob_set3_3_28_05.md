@@ -4,6 +4,7 @@ description: 'A problem set for the topic: Stereocontrolled Alkylation and Relat
   Strategies.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/1edb0f97c4f0a15407523d8fc31864d9_prob_set3_3_28_05.pdf
 file_type: application/pdf
+parent_uid: 0fb1c4f7-7637-4160-6352-e8ba33dd92f0
 resourcetype: Document
 title: prob_set3_3_28_05.pdf
 uid: 1edb0f97-c4f0-a154-0752-3d8fc31864d9
